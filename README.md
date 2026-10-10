@@ -38,7 +38,7 @@ The script simulates the target and the three agents, then plots the trajectorie
 
 ## Citation
 
-If you use the code in your research work, please cite the following paper:
+If you use the code in your research work, please cite the following papers:
 
 ```
 @article{nooshabadi2024stealthy,
@@ -49,5 +49,16 @@ If you use the code in your research work, please cite the following paper:
   pages={2763--2768},
   year={2024},
   publisher={IEEE}
+}
+```
+
+```
+@inproceedings{shahraki2025spacecraft,
+  title={Spacecraft attitude control under reaction wheel constraints using control lyapunov and control barrier functions},
+  author={Shahraki, Milad Alipour and Lessard, Laurent},
+  booktitle={2025 American Control Conference (ACC)},
+  pages={947--952},
+  year={2025},
+  organization={IEEE}
 }
 ```
